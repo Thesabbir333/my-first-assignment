@@ -1,0 +1,39 @@
+/* Shared Styles */
+body {
+
+    font-family: 'Merriweather', serif;
+}
+
+/* /Banner related Styles */
+.banner {
+    margin: 50px;
+    background-image: url('./resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1350px;
+    height: 600px;
+    background: linear-gradient();
+
+}
+
+.banner-text {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: normal;
+    border: none;
+
+    color: aliceblue;
+}
+
+.banner-title {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: aliceblue;
+    font-size: 72px;
+    font-weight: 900;
+    text alig
+
+}
