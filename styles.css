@@ -9,9 +9,9 @@ body {
     margin: 50px;
     background-image: url('./resources/Banner\ Image.png');
     background-repeat: no-repeat;
-    width: 1350px;
+    width: 1320px;
     height: 600px;
-    background: linear-gradient();
+    /* background-image: linear-gradient(180deg, #070211 10%, hsl(180, 9%, 42%) 60%); */
 
 }
 
@@ -34,6 +34,48 @@ body {
     color: aliceblue;
     font-size: 72px;
     font-weight: 900;
-    text alig
+}
 
+/* main section related styles */
+
+.offer{
+    width: 1600px;
+    height: 800px;
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.offer-title {
+    color: rgb(255, 72, 0);
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.offer-text{
+    color: rgb(255, 72, 0);
+text-align: center;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+}
+
+.offer-category{
+    color: #000000;
+text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.offer-img{
+    border:0px 400px;
+    border-left: 400px;
+    padding: 100px;
 }
